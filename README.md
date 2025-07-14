@@ -1,8 +1,15 @@
-# About me...
-- 🔭 I’m currently working on my final year mechanical engineering degree.
-- 🌱 I’m currently learning Python and various software engineering skills to diversify my self.
-- 👯 I’m looking to collaborate on anything (literally anything).
-- 🤔 I’m looking for help with anything related to Python (advice, tips, tricks, or anything else you can share). All input is welcome!
-- 💬 Ask me about the tram visualisation-tool software I am producing for my final year at University.
-- 📫 How to reach me: EMAIL!
-- ⚡ Fun fact: I am probably allergic to dust.
+# 👋 About Me
+
+- 🎓 Recent Mechanical Engineering graduate transitioning into tech-focused roles.
+- 🔍 Currently seeking opportunities that apply my engineering background in innovative and practical ways.
+- 💻 Expanding my skills in **Python**, software development, and digital tools to complement my mechanical expertise.
+- 📚 Lifelong learner: always curious, always improving.
+- 🤝 Open to collaboration on any project, big or small. If it’s interesting, I’m in!
+- 🐍 Always happy to connect with others in Python or software spaces, tips, advice, or just a good chat.
+- 💬 Ask me about the **interactive tram visualisation tool** I built for my final-year university project. It’s under NDA and currently a private repo, but it earned me **first place** in a university funding competition, **industry mentorship**, and a hefty **financial award**.
+- 📫 Reach me via **email** (contact details in profile).
+- ⚡ Fun fact: I might be allergic to dust... still under investigation.
+
+---
+
+> “The best way to predict the future is to create it”
